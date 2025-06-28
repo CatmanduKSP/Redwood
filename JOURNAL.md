@@ -6,4 +6,4 @@ I found my first part! I really can't buy motors, design props and the chassis, 
 [The Holy Grail, SearchFPV](https://searchfpv.com/cgi/searchtool)
 [V22 Osprey Wiki](https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey)
 [Redwood ChatGPT](https://chatgpt.com/c/685f1125-39e0-8003-a5b2-7f9634871421)
-## TotaL Time: 5 Hours
+### Total Time: 5 Hours
